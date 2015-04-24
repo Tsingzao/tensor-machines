@@ -28,7 +28,7 @@ For the parameters used in these two solvers, see ```tensor_machines.m```.
 
 ##Datasets
 In ```datasets/```, two publicly available datasets from UCI repository are included.
-- ```adult.mat```: the [adult dataset](http://archive.ics.uci.edu/ml/datasets/Adult);
+- ```adult.mat```: the [Adult dataset](http://archive.ics.uci.edu/ml/datasets/Adult);
 - ```forest_small.mat```: a subset of the [Forest dataset](https://archive.ics.uci.edu/ml/datasets/Covertype); this has the test set of the original Forest dataset and a subset of 50000 training examples chosen randomly from the original training set.
 
 ##Examples
